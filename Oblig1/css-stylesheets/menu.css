@@ -1,0 +1,45 @@
+body{
+    background-image:
+    linear-gradient(rgb(34, 32, 30),rgb(185, 138, 83));
+} 
+
+.navbar {
+    width: 100%;
+    background-color: #000;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: left;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 47.59%; 
+    text-align: center; 
+  }
+  
+  .navbar a:hover {
+    background-color: #000;
+  }
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+ h4, h2, h1, dl{
+   text-align: center;
+   color: white;
+ }
+
+ img{
+   width: 300px;
+ }
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+ 
